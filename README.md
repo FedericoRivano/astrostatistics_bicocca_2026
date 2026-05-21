@@ -32,7 +32,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 20. **[Classification II](lectures/L20_classification.ipynb)**. Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
 21. **[Deep learning I](lectures/L21_deeplearning.ipynb)**. Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
 22. **[Deep learning II](lectures/L22_deeplearning.ipynb)**. TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
-23. **[Deep learning III](lectures/L23_transformers_llms.ipynb)**. Transformers. Tokens. Self-attention. GPTs. Large language models. 
+23. **[Deep learning III](lectures/L23_deeplearning3.ipynb)**. Transformers. Tokens. Self-attention. GPTs. Large language models. 
 
 ##### Additional lectures not covered in class
 
