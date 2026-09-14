@@ -10,7 +10,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ## Lectures
 
-1. **[Introduction I](lectures/L01_introduction.ipynb)**. Data mining and machine learning. My research interests. Python setup. Version control with git. *
+1. **[Introduction I](lectures/L01_introduction.ipynb)**. Data mining and machine learning. My research interests. Python setup. Version control with git.
 2. **[Probability and Statistics I](lectures/L02_probability.ipynb)**. Probability. Bayes' theorem. Random variables. *
 3. **[Probability and Statistics II](lectures/L03_probability.ipynb)**. Monte Carlo integration. Descriptive statistics. Common distributions. *
 4. **[Probability and Statistics III](lectures/L04_probability.ipynb)**. Central limit theorem. Multivariate pdfs. Correlation coefficients. Sampling from arbitrary pdfs. *
@@ -32,7 +32,7 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 20. **[Classification II](lectures/L20_classification.ipynb)**. Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
 21. **[Deep learning I](lectures/L21_deeplearning.ipynb)**. Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
 22. **[Deep learning II](lectures/L22_deeplearning.ipynb)**. TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
-23. **[Deep learning III](lectures/L23_deeplearning3.ipynb)**. Transformers. Tokens. Self-attention. GPTs. Large language models. 
+23. **[Deep learning III](lectures/L23_deeplearning.ipynb)**. Transformers. Tokens. Self-attention. GPTs. Large language models. 
 
 ##### Additional lectures not covered in class
 
@@ -51,7 +51,7 @@ At various points during the lectures you fill find some **"Time to get your han
 
 The **main textbook** we will be using is:
 
-["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Željko, Andrew, Jacob, and Gray. Princeton University Press, 2012.
+["Statistics, Data Mining, and Machine Learning in Astronomy"](https://press.princeton.edu/books/hardcover/9780691198309/statistics-data-mining-and-machine-learning-in-astronomy), Ivezić, Connolly, VanderPlas, Gray. Princeton University Press, 2012.
 
 It's a wonderful book that I keep on referring to in my research. The library has a few copies; you can also download a digital version from the Bicocca library website. What I really like about that book is that they provide the code behind each single figure: [astroml.org/book\_figures](https://www.astroml.org/book_figures/). The best way to approach these topics is to study the introduction on the book, then grab the code and try to play with it.  Make sure you get the updated edition of the book (that's the one with a black cover, not orange) because all the examples have been updated to python 3.   
 
